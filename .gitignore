@@ -1,0 +1,8 @@
+.DS_STORE
+Thumb.db
+
+*.html
+
+logs/
+bin/
+build/
